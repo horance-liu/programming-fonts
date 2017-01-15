@@ -21,7 +21,7 @@ wget -c https://raw.githubusercontent.com/horance-liu/programming-fonts/raw/mast
 wget -c https://raw.githubusercontent.com/horance-liu/programming-fonts/raw/master/optima-regular.ttf   
 
 echo "Installing font"
-sudo mv *.ttf *.TTF *.otf *.otf /usr/share/fonts/truetype/custom/
+sudo mv *.ttf *.TTF *.otf /usr/share/fonts/truetype/custom
 
 sudo fc-cache -f -v
 echo "Installing succ"
