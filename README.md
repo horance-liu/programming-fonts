@@ -1,8 +1,6 @@
-monaco-font
-===========
+## Installing
 
-Install Monaco Font on Ubuntu
+```
+$ curl -fsSh https://raw.github.com/horance-liu/programming-fonts/master/install.sh | bash
+```
 
-curl -kL https://raw.github.com/cstrap/monaco-font/master/install-font.sh | bash
-
-Inspired by http://jorrel.blogspot.it/2007/11/monaco-on-ubuntu.html
